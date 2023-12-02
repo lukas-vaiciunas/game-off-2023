@@ -1,0 +1,14 @@
+1 ./assets/audio/sounds/hit-wood.ogg
+2 ./assets/audio/sounds/hit-stone.ogg
+3 ./assets/audio/sounds/hit-character.ogg
+101 ./assets/audio/sounds/death-enemy.ogg
+102 ./assets/audio/sounds/death-player.ogg
+201 ./assets/audio/sounds/footstep-1.ogg
+202 ./assets/audio/sounds/footstep-2.ogg
+301 ./assets/audio/sounds/eat.ogg
+302 ./assets/audio/sounds/craft.ogg
+303 ./assets/audio/sounds/equip.ogg
+1001 ./assets/audio/sounds/mouse-hover.ogg
+1002 ./assets/audio/sounds/mouse-press.ogg
+1003 ./assets/audio/sounds/mouse-release.ogg
+1011 ./assets/audio/sounds/scroll.ogg

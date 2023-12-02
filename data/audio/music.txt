@@ -1,0 +1,2 @@
+1 ./assets/audio/music/lost-dream.ogg
+2 ./assets/audio/music/medieval.ogg
